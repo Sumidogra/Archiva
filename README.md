@@ -1,0 +1,1 @@
+Archiva is a modern architectural showcase website developed using HTML, Tailwind CSS, and JavaScript. It presents organized interior and exterior residential design concepts including living rooms, bedrooms, kitchens, and facade styles. The project demonstrates clean UI design, responsive layouts, and structured navigation for exploring house planning ideas.
